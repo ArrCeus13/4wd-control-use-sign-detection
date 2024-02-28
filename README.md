@@ -79,8 +79,5 @@ Grafik diatas menggambarkan performa dari model. Dapat dilihat dari grafik terse
 Gambar di atas menjelaskan secara umum performa model pada rentang IoU Threshold 0.50 - 0.95. Dapat dilihat setiap kelas memiliki nilai rata-rata di atas 90% dan secara umum memiliki mean Average Precision sekitar 94.65%.
 
 <p align="center">
-  <img src="/src/image/image1.png">
-</p>
-<p align="center">
-  <img src="/src/image/image4.png">
-</p>
+  <img src="/src/image/image1.jpg">
+  <img src="/src/image/image4.jpg">
