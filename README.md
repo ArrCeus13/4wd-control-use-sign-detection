@@ -80,5 +80,7 @@ Gambar di atas menjelaskan secara umum performa model pada rentang IoU Threshold
 
 <p align="center">
   <img src="/src/image/image1.png">
+</p>
+<p align="center">
   <img src="/src/image/image4.png">
 </p>
