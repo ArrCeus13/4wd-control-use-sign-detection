@@ -1,9 +1,5 @@
 # Kontrol Mobil Robot 4WD Dengan Deteksi Rambu Lalu Lintas
 
-<p align="center">
-   <img src="../doc/TFLite-vs-EdgeTPU.gif">
-</p>
-
 ## Spesifikasi Alat
 Mobil (Hardware)
 * Case Akrilik
